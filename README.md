@@ -1,16 +1,3 @@
-# shop_app
+# Shopping App UI
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Shopping App is a 3-screen UI design app built using flutter. Home screen lists search bar, filtering through brands and products. Tapping at any product will lead you to its dedicated screen which will show product name, picture, price, buttons for size selection and a add to cart button. Cart screen will show your add to carted products where you can remove any product from your cart.
