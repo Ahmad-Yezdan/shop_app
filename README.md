@@ -1,3 +1,6 @@
 # Shopping App UI
 
-Shopping App is a 3-screen UI design app built using flutter. Home screen lists search bar, filtering through brands and products. Tapping at any product will lead you to its dedicated screen which will show product name, picture, price, buttons for size selection and a add to cart button. Cart screen will show your add to carted products where you can remove any product from your cart.
+Shopping App is a 3-screen UI design app built using flutter.
+- Home screen lists search bar, filtering through brands and products. 
+- Tapping at any product will lead you to its dedicated screen which will show product name, picture, price, buttons for size selection and a add to cart button. 
+- Cart screen will show your add to carted products where you can remove any product from your cart.
